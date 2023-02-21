@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 /**
-Description
-*/
-
+ * master
+ */
 int main(void)
 {
 	int c = 0;
